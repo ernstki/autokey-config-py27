@@ -30,10 +30,10 @@
             100
         ], 
         "workAroundApps": ".*VirtualBox.*|krdc.Krdc", 
-        "hPanePosition": 318, 
+        "hPanePosition": 437, 
         "isFirstRun": true
     }, 
-    "userCodeDir": "/home/ern6xv/SpiderOak Hive/Configs/AutoKey scripts/lib", 
+    "userCodeDir": "/home/ern6xv/.config/autokey/data/lib", 
     "version": "0.90.4", 
     "configHotkey": {
         "hotKey": "k", 

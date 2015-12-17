@@ -8,11 +8,15 @@
         "backspace": true, 
         "triggerInside": false
     }, 
-    "modes": [], 
+    "modes": [
+        3
+    ], 
     "title": "dates", 
     "hotkey": {
-        "hotKey": null, 
-        "modifiers": []
+        "hotKey": "<f12>", 
+        "modifiers": [
+            "<ctrl>"
+        ]
     }, 
     "filter": {
         "regex": null, 

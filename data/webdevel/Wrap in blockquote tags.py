@@ -1,7 +1,6 @@
 from scriptlib import *
 
 no_selection = False
-
 try:
     sel = get_sel()
 except:
@@ -17,7 +16,10 @@ sel = "<blockquote>" + sel + "</blockquote>"
 set_clip(sel)
 time.sleep(0.01)
 keyboard.send_keys("<ctrl>+v") # paste over the selection
-set_clip(clipb) # restore previous contents (we hope)
+
+# The set_clip() command is too slow for this to be reliable, since
+# we're calling out to 'xclip' with Popen():
+#set_clip(clipb) # restore previous contents (we hope)
 
 # Put the cursor inside the <blockquote></blockquote> tags if the
 # selection was empty

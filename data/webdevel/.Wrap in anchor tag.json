@@ -2,7 +2,7 @@
     "usageCount": 10, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "Paste URL into a tag", 
+    "description": "Wrap in anchor tag", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
