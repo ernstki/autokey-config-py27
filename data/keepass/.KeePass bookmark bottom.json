@@ -1,5 +1,5 @@
 {
-    "usageCount": 1, 
+    "usageCount": 3, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "KeePass bookmark (bottom)", 
@@ -14,7 +14,7 @@
     "hotkey": {
         "hotKey": "2", 
         "modifiers": [
-            "<alt>"
+            "<ctrl>"
         ]
     }, 
     "modes": [
