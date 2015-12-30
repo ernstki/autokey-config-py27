@@ -1,12 +1,12 @@
 {
-    "usageCount": 36, 
+    "usageCount": 20, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "Typewriter", 
+    "description": "GeSHi source tag", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [
-            "<tt"
+            "<sou"
         ], 
         "immediate": true, 
         "ignoreCase": false, 

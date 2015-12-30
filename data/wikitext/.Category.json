@@ -1,5 +1,5 @@
 {
-    "usageCount": 9, 
+    "usageCount": 14, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "Category", 
@@ -9,7 +9,7 @@
             "[[cat"
         ], 
         "immediate": true, 
-        "ignoreCase": false, 
+        "ignoreCase": true, 
         "backspace": true, 
         "triggerInside": true
     }, 
